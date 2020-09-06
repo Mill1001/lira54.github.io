@@ -2310,7 +2310,7 @@
     {
         "number":77,
         "status":null,
-        "isAvailable":true,
+        "isAvailable":false,
         "area":1200,
         "vertices":[
             [
@@ -2400,7 +2400,7 @@
     {
         "number":80,
         "status":null,
-        "isAvailable":false,
+        "isAvailable":true,
         "area":1200,
         "vertices":[
             [
@@ -2430,7 +2430,7 @@
     {
         "number":81,
         "status":null,
-        "isAvailable":true,
+        "isAvailable":false,
         "area":801,
         "vertices":[
             [
